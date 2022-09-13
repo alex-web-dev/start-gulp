@@ -1,0 +1,15 @@
+@import 'libs';
+@import 'mixins';
+@import 'vars';
+@import 'base';
+@import 'fonts';
+
+@import 'global';
+
+//Components
+@import 'components/menu.scss';
+@import 'components/header.scss';
+@import 'components/main.scss';
+@import 'components/footer.scss';
+
+@import 'media';
